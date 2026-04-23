@@ -1,6 +1,6 @@
 # 🚀 SamTraffic
 
-![SamTraffic Banner]([./1.png))
+![SamTraffic Banner](./1.png)
 
 > AI-Powered Website Traffic Generation Tool
 
