@@ -1,6 +1,6 @@
 # 🚀 SamTraffic
 
-https://samtraffic.liveblog365.com/screenshots/1.png
+![SamTraffic Banner](./1.png)
 
 > AI-Powered Website Traffic Generation Tool
 
