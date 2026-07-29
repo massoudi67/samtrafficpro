@@ -8,8 +8,7 @@
 
 ## 🌐 Official Website
 
-http://samtraffic.liveblog365.com/
-
+https://samtrafficbot.com/
 ---
 
 ## 🧠 About SamTraffic
